@@ -1,0 +1,17 @@
+
+{
+    "name": "pwa-tb",
+    "version": "1.0.0",
+    "description": "PWA app",
+    "author": "Shweta Marandi",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.16.1"
+    },
+    "devDependencies": {},
+    "keywords": [],
+    "license": "ISC"
+  }
